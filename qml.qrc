@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icones/carapace.png</file>
+        <file>icones/carapaceRouge.png</file>
+        <file>icones/carapaceVerte.png</file>
+        <file>icones/centreCercle.png</file>
+        <file>icones/cercle.png</file>
+        <file>icones/quitter.png</file>
+        <file>icones/site.png</file>
+        <file>icones/sitesPasRanges.png</file>
+        <file>icones/sitesRanges.png</file>
+        <file>icones/triangle.png</file>
+        <file>icones/voronoi.png</file>
+        <file>main.qml</file>
+    </qresource>
+</RCC>
