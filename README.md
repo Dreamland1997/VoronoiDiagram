@@ -1,0 +1,2 @@
+# VoronoiDiagram
+This project is part of University of Lorraine initiation to research. This project aims to implements algorithms to generate Voronoi diagrams structures. Those diagrams are present everywhere in nature, espacially on turtle shells. This is what is implemented in this project, the generation of such diagrams on a turtle shell. Therefore, according to work needs, I have partially rewritten this project.  This project has been developped using QtCreator on Windows. One just has to import the project into QtCreator then compile it and launch it.
